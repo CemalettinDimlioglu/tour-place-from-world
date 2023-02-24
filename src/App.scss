@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Hubballi&family=Patrick+Hand&display=swap');
+
+@import './scss/reset','./scss/variables';
+
+body {
+  font-family: 'Amatic SC', cursive;
+  background-color: $backgroundColor;
+}
+p {
+  font-family: 'Hubballi', cursive;
+}
